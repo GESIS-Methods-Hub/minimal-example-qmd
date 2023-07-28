@@ -2,7 +2,7 @@
 title: "Minimal Example of Tutorial in Quarto with R"
 author: Raniere Silva
 image: img/cover.jpg
-image-alt: Computer screen showing calculator app.
+image-alt: Computer screen showing spreadsheet app.
 bibliography: references.bib
 ---
 
